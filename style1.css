@@ -29,7 +29,7 @@ label{
     padding: 1px 0 1px 0;
 }
 .table-style{
-    padding: 0 0 0 50px ;
+    padding: 0 0 0 40px ;
 }
 
 .section0{
@@ -43,18 +43,20 @@ label{
     text-align: center;
     
 }
-.section1{
+.section1,
+.section2,
+.section3{
     background-color: #e4e4e4;
     margin:0;
-    padding: 10px 0 30px 0;
+    padding: 10px 5px 20px 5px;
     font-weight: 400;
     
 }
-.t1r1-style{
+.t-r1-style{
     text-align: left;
     
 }
-.t1r2-style{
+.t-r2-style{
     width: 25%;
 }
 .t1r2-input-style{
@@ -66,11 +68,14 @@ label{
     color: gray;
     padding: 5px 0 0 0;
 }
-.section2_radio-style{
-    padding: 5px;
+
+.radio-style{
+    margin-top: 5px;
+    margin-bottom: 5px;
     font-size: 11px;
     vertical-align: middle;
 }
+
 
 
 

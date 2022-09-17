@@ -1,0 +1,18 @@
+/*
+Colors used in the image
+
+browser bg #AAAAAA
+header bg #fefefe
+body bg #e4e4e4
+h1 #7c3d45
+h!1 #78363f
+p #b68086
+
+
+*/
+html{
+
+    background-color: #AAAAAA;
+    font-family: 'Inter', sans-serif;
+    font-size: 10px;
+}

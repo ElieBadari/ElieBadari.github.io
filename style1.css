@@ -6,7 +6,7 @@ header bg #fefefe
 body bg #e4e4e4
 h1 #7c3d45
 h!1 #78363f
-p #b68086
+p #b96b74
 
 
 */
@@ -25,7 +25,7 @@ body{
     
 }
 label{
-    color:#b68086;
+    color:#b96b74;
     padding: 1px 0 1px 0;
 }
 .table-style{
@@ -58,15 +58,22 @@ label{
     
 }
 .t-r1-style{
+    font-size: 13px;
     text-align: left;
+    width: 55%;
+   
     
 }
 .t-r2-style{
-    width: 25%;
+    margin:0;
 }
 .t1r2-input-style{
-    width: 250px;
-    height: 30px;
+    width: 300px;
+    height: 35px;
+    border-radius: 4px;
+    border-width: 1px;
+   
+    border-color: #AAAAAA;
     
 }
 .why{
@@ -77,12 +84,21 @@ label{
 .radio-style{
     margin-top: 5px;
     margin-bottom: 5px;
-    font-size: 11px;
+    font-size: 13px;
     vertical-align: middle;
 }
 .form-style{
     font-size: 10px;
 }
+.section7_text-style{
+    
+    width:90%;
+    height:150px;
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: #AAAAAA;
+    
 
+}
 
 

@@ -24,6 +24,10 @@ body{
     background-color: #e4e4e4;
     
 }
+label{
+    color:#b68086;
+    padding: 1px 0 1px 0;
+}
 .table-style{
     padding: 0 0 0 50px ;
 }
@@ -62,7 +66,11 @@ body{
     color: gray;
     padding: 5px 0 0 0;
 }
-
+.section2_radio-style{
+    padding: 5px;
+    font-size: 11px;
+    vertical-align: middle;
+}
 
 
 
